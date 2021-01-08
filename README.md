@@ -27,9 +27,11 @@ npm run lint
 ```
 ### Screenshot
 
-![Desktop](screenshots/desktop.jpeg)
+#### Desktop
+<img src="screenshots/desktop.png" alt="Desktop Screenshot" width="200"/>
 
-![Mobile Screenshot](screenshots/mobile.png)
+#### Mobile
+<img src="screenshots/mobile.png" alt="Mobile Screenshot" width="200"/>
 
 ### Customize configuration
 
